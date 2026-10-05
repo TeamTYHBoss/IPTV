@@ -1,4 +1,6 @@
-#EXTM3U
+#EXTM3U x-tvg-url="https://github.com/matthuisman/i.mjh.nz/raw/master/Plex/all.xml.gz" url-tvg="https://github.com/matthuisman/i.mjh.nz/raw/master/Plex/all.xml.gz"
+#PLAYLIST:TEST
+# Built with the CODECS.COM Playlist Builder
 
 #EXTINF:-1 tvg-name="Latest",Latest List
 https://dn710305.ca.archive.org/0/items/SatelliteDishHdr/SatelliteDishHdr.mp4
